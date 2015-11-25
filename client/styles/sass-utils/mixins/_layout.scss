@@ -1,7 +1,0 @@
-@mixin layout-margin($size) {
-  margin: map-get($layout-margin, $size);
-}
-
-@mixin layout-padding($size) {
-  padding: map-get($layout-padding, $size);
-}
